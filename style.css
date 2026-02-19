@@ -540,21 +540,7 @@ a:hover {
     font-weight: 600;
 }
 
-.service-icon {
-    width: 60px;
-    height: 60px;
-    background: linear-gradient(135deg, var(--primary-light), var(--secondary-color));
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: var(--spacing-md);
-}
-
-.service-icon svg {
-    width: 30px;
-    height: 30px;
-    color: var(--white);
+/* service icons removed */
 }
 
 .service-card h3 {
